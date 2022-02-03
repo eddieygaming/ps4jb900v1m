@@ -1,0 +1,28 @@
+CACHE MANIFEST 
+# Kameleon 900V4.5
+# 01/16/2022-14:27:00.78 
+
+bg.jpg
+cache.html
+exploit.js
+favicon.ico
+index.html
+int64.js
+kexploit-launcher.js
+kexploit.js
+malloc.js
+mira.js
+mira2.js
+netcat.js
+payload.html
+pl_goldhen20b2.bin
+relocator.js
+rop.js
+rop_sleirs.js
+syscalls.js
+syscalls2.js
+webkit.js
+
+NETWORK:
+*
+
